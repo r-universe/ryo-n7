@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tvthemes"]
 	path = tvthemes
 	url = https://github.com/ryo-n7/tvthemes
-	shallow = true
-	registered = true
